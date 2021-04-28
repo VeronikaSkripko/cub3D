@@ -1,6 +1,6 @@
 NAME	= cub3D
 
-SRCS	=  main.c get_next_line.c get_next_line_utils.c parser.c sprites.c\
+SRCS	=  cub3d.c get_next_line.c get_next_line_utils.c parser.c sprites.c\
 			player.c process_map.c exit_errors.c check_map.c check_map2.c save_bmp.c press_key.c\
 			utills.c draw_walls.c draw_walls_extra.c parser_floor_celling.c\
 			parser_textures.c parser_map_size.c horizont_ray.c vertical_ray.c\
